@@ -425,3 +425,36 @@ td,
 th {
   padding: 0;
 }
+
+/*
+=======================================================
+                    MY STYLES
+=======================================================
+*/
+
+body {
+  background-color: beige;
+}
+header {
+  background-color: #FFF;
+  padding: 2.4em;
+}
+
+header img {
+  width: 3%;
+  height: 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
