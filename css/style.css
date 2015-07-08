@@ -434,15 +434,17 @@ th {
 
 body {
   background-color: beige;
+  margin: 0;
 }
 header {
   background-color: #FFF;
-  padding: 2.4em;
 }
 
 header img {
-  width: 3%;
-  height: 4%;
+  
+}
+header ul li {
+  display: inline-block;
 }
 
 
