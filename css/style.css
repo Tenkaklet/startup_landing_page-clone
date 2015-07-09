@@ -449,8 +449,17 @@ body {
   height: 70px;
   margin: 0 auto;
 }
+.content {
+  padding: 0 15px;
+}
 
 
+.top-navigation .content .links {
+  float: right; 
+}
+.top-navigation .logo {
+
+}
 
 
 
