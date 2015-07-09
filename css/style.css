@@ -433,7 +433,9 @@ th {
                     MY STYLES
 =======================================================
 */
-
+html {
+  -webkit-font-smoothing: antialiased;
+}
 body {
   background-color: beige;
 }
@@ -455,13 +457,29 @@ body {
 
 
 .top-navigation .content .links {
-  float: right; 
+  
+  display: inline-block; 
 }
 .top-navigation .logo {
-
+    
 }
-
-
+nav ul li {
+  display: inline-block;
+  margin-top: 10px;
+}
+nav ul li a {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #838994;   
+}
+.top-navigation > .links > .active {
+  color: #4c5058;
+  font-weight: 600;
+}
+.top-navigation > .links > .active:hover {
+  color: #A80000;
+  cursor: pointer;
+}
 
 
 
