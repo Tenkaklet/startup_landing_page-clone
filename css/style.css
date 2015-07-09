@@ -449,9 +449,9 @@ body {
 }
 
 
-/* Navigation */
+/* William, this was my first attempt at it, which I'm not entirely sure of how to use floats and why one would use margin-top in a nav */
 
-.top-navigation {
+/*.top-navigation {
   background-color: #FFF;
 }
 .top-navigation .content {
@@ -461,7 +461,7 @@ body {
 }
 .content {
   padding: 0 15px;
-}
+}*/
 
 
 .top-navigation .links {
@@ -486,6 +486,14 @@ body {
   color: #333;
 }
 
+/* Welcome */
+
+#welcome {
+  width: 100%;
+  height: 686px;
+  background-color: green;
+  background: url(../img/first-background.jpg);
+}
 
 
 
