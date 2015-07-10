@@ -137,8 +137,12 @@ h1 {
   display: inline-block;
 }
 
-
-
+.soap {
+  margin: 2rem;
+}
+.soap h3 {
+  font-weight: 300;
+}
 
 
 
