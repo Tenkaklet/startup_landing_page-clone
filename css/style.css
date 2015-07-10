@@ -150,13 +150,20 @@ h1 {
 
 /* foooter */
 
+hr .small {
+  width: 20px;
+}
+
 .social {
   background-color: #fff;
-  overflow: auto;
   padding-bottom: 9.375rem;
   text-align: center;
 }
-
+ul li {
+  list-style: none;
+  display: inline;
+  text-align: center;
+}
 
 
 
