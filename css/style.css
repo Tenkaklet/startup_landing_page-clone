@@ -39,6 +39,9 @@ h1 {
 
 /* Navigation */
 
+.logo {
+  display: block;
+}
 
 .top-navigation {
   background-color: #FFF;
