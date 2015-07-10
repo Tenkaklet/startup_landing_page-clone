@@ -78,7 +78,7 @@ h1 {
     cursor: pointer;
     color: #333333;
 }
-
+/* Introduction */
 .introduction {
     background-image: url('../img/first-background.jpg');
     background-position: center bottom;
@@ -148,6 +148,7 @@ h1 {
   font-weight: 300;
 }
 
+/* foooter */
 
 
 
