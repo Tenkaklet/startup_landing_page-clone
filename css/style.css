@@ -113,3 +113,32 @@ h1 {
   background-color: #FF4600;
 }
 
+/* MAIN SECTION */
+
+#main {
+  height: 39rem;
+  width: 100%;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  margin-top: 9rem;
+}
+.center {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
