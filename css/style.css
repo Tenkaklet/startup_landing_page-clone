@@ -128,8 +128,14 @@ h1 {
 .center {
   text-align: center;
 }
-
-
+.container .heading h1 {
+      font-size: 3.125rem;
+      font-weight: 300;
+}
+.images ul li {
+  list-style: none;
+  display: inline-block;
+}
 
 
 
