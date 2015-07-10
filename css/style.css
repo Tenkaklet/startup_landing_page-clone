@@ -150,7 +150,12 @@ h1 {
 
 /* foooter */
 
-
+.social {
+  background-color: #fff;
+  overflow: auto;
+  padding-bottom: 9.375rem;
+  text-align: center;
+}
 
 
 
